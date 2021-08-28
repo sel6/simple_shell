@@ -1,17 +1,3 @@
-# <a href="url"><img src="https://cdn3.iconfinder.com/data/icons/egg/500/Egg_food_cracked_whipped-512.png" align="middle" width="100" height="100"></a> simple_shell
-
-
-## Table of Contents
-* [Description](#description)
-* [File Structure](#file-structure)
-* [Requirements](#requirements)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Example of Use](#example-of-use)
-* [Bugs](#bugs)
-* [Authors](#authors)
-* [License](#license)
-
 ## Description
 simple_shell is a command line interpreter, or shell, in the tradition of the first Unix shell written by Ken Thompson in 1971. This shell is intentionally minimalistic, yet includes the basic functionality of a traditional Unix-like command line user interface. 
 Standard functions and system calls employed in simple_shell include:
@@ -132,11 +118,6 @@ drwxrwxr-x  8 vagrant vagrant  4096 Jul 19 22:34 .git
 
 ## Bugs
 At this time, there are no known bugs.
-
-## Authors
-Sammie Ogoigbe | [GitHub](https://github.com/ogoigbe12) | [Email](mailto:ogoigbe12@gmail.com>)
-
-Yohannes Getu | [GitHub](https://github.com/YohannesGetu) | [Email](mailto:nede.evoli@gmail.com)
 
 ## License
 simple_shell is open source and therefore free to download and use without permission.
